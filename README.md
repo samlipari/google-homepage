@@ -1,0 +1,1 @@
+This is my first mini-project with The Odin Project and will be testing what I've learned in HTML and CSS over the past few days. I will be deconstructing an existing web page and rebuilding it to get an idea of how items are placed as well as styling.

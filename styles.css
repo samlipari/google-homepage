@@ -1,0 +1,115 @@
+header {
+    position: relative;
+}
+
+a {
+    display: inline-block;
+    padding-left: 15px;
+    padding-top: 10px;
+    color: #000;
+    opacity: 0.75;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+}
+
+
+.left {
+    position: relative;
+    float: left;
+    color: black;
+}
+
+.right {
+    position: relative;
+    float: right;
+}
+
+.sign-in {
+    background-color: rgb(53, 104, 243);
+    color: white;
+    font-weight: bold;
+    border: none;
+    height: 30px;
+    width: 70px;
+    margin-left: 15px;
+}
+
+img {
+    display: block;
+    position: relative;
+    margin: auto;
+    padding-top: 150px;
+    padding-left: 130px;
+    padding-bottom: 40px;
+}
+
+.search-bar {
+    display: block;
+    text-align: center;
+}
+
+form {
+    display: inline-block;
+    margin: auto;
+}
+
+.bar {
+    width: 400px;
+    height: 35px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    border-color: lightgray;
+    outline: none;
+}
+
+.search {
+    background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.lucky {
+    background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.footer {
+    position: relative;
+    background-color: lightgray;
+}
+
+.bottom-left {
+    float: left;
+    padding-top: 180px;
+}
+
+.bottom-right {
+    float: right;
+    padding-top: 180px;
+}
